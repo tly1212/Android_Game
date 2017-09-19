@@ -1,0 +1,1 @@
+This game is developed by a team. Team member includes: Liangyu Tan, Xu Lu, Lige Liu, Qifeng Liang.
